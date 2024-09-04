@@ -6,7 +6,7 @@ int Sum(int a, int b) {
 }
 int Sum(int a, int b, int c) {
 	if (a % 2 == 0) {
-
+		//8
 	}
 	return a + b + c;
 }
