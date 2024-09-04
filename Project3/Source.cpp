@@ -5,7 +5,7 @@ int Sum(int a, int b) {
 	return a + b;
 }
 int Sum(int a, int b, int c) {
-	if (a > b) {
+	if (a % 2 == 0) {
 
 	}
 	return a + b + c;
